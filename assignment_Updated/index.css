@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+ul#ul1{list-style: none; margin-left:30px}
+#ul1 li{display:inline-block; padding-right:15px; line-height:30px; color:white}
+p{float:left;line-height:30px; color:white; padding-left:80px}
+ul#ul2{list-style:none; margin-right:80px}
+#ul2 li{display:inline-block; padding-right:15px; line-height:30px; color:white; float:right}
+li#register{border-right:1px solid#FFFFFF; padding-right:10px; }
+li#login{padding-left:10px}
+#footer{text-align:center; padding:5px 0px 5px 0px; background-color:#c0d8fc; height:auto}
+.GraphText{font-size:16px;padding:10px 0px 5px 20px}
+#Graph{width:100%; height:40px; margin-top:5px}
+.DummyText{color:#b5b5b5}
+hr{ width:10%}
+table tr th{border-top:1px solid #000000; border-bottom:1px solid #000000; background-color: #e0e9f2; padding-right:20px; text-align:center; padding-left:20px}
+table tr td{border-top:1px solid #000000; border-bottom:1px solid #000000; padding-right:20px;width:10%; padding-left:20px;}
+.Blink{Color:blue}
+.change{color:forestgreen}
